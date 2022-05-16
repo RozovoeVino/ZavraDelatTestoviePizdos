@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task4": {
+      "commandName": "Project",
+      "commandLineArgs": "nums.txt"
+    }
+  }
+}

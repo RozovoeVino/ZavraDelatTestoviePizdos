@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task2": {
+      "commandName": "Project",
+      "commandLineArgs": "circleCoords.txt pointsCoords.txt"
+    }
+  }
+}
